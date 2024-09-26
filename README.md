@@ -7,7 +7,6 @@ Bu repo, Miuul'un **Python for Data Science** kursu süresince aldığım notlar
 - **Temel Python**
   - Python veri yapıları (Listeler, Tuple'lar, Sözlükler)
   - Fonksiyonlar ve döngüler
-  - Python ile dosya okuma/yazma
 
 - **Veri Manipülasyonu**
   - Pandas ve NumPy kullanarak veri işleme
@@ -22,4 +21,4 @@ Bu repo, Miuul'un **Python for Data Science** kursu süresince aldığım notlar
 - **İstatistiksel Veri Analizi**
   - Özet istatistikler (ortalama, median, mod, vb.)
   - Dağılımlar ve varyans analizi
-  - Hipotez testleri
+
